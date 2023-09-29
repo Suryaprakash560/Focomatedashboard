@@ -1,0 +1,207 @@
+
+body{
+background-color: #110E19 !important;
+}
+@media (min-width: 320px) and (max-width: 600px){
+  .upgradeplane,.contentdiv{
+    margin-top: 5% !important;
+  }
+  .contentdiv{
+    height: auto !important;
+    margin-bottom: 5% !important;
+  }
+  .updbtn{
+    font-size: 10px;
+  }
+  .questionmark {
+    width: 25% !important;
+}
+.upgradebtn{
+  padding: 5px !important;
+}
+.pad-right{
+  padding-right: 15px !important;
+}
+.Spellfirstletter{font-size: 15px !important;}
+}
+.whole-div{
+  width: 90%;
+  margin: auto !important;
+}
+.brainlewidt{
+  width: 100%;
+}
+.questionmark{
+  width: 5%;
+  margin-left: 5%;
+}
+.updbtn{
+  background: transparent;
+    border: none;
+    color: white;
+}
+.upgradebtn{
+  padding: 5px 30px;
+  border-radius: 25px;
+  background-image: linear-gradient(to right, #686DFF , #D700DE);
+  
+  margin-left: 5%;
+}
+.crownwidt{
+  width: 21%;
+  background: transparent !important
+}
+.contentdiv{
+  background-color: #251E37;
+  border-radius: 10px;
+  padding: 15px;
+  height: 87vh;
+}
+.Spellfirstletter{
+  font-size: 1.5vw;
+  color: white;
+  font-weight: 500;
+  padding: 7px;
+  border-radius: 5px;
+  background-image: linear-gradient(to right, #686DFF , #D700DE);
+  text-align: center;
+}
+.Premiumtxt{
+  color: #A2A2A2;
+  font-size: 10px;
+}
+.inputboxclr{
+  background-color: #4B445D;
+  padding: 5px;
+  border-radius: 10px;
+}
+
+.inputboxclr input{
+  border: none;
+  background-color: transparent;
+}
+.searchim{
+  width: 5%;
+    height: 50%;
+  position: absolute;
+    left: 89%;
+}
+.inputjustify{
+  align-items: center;
+  justify-content: space-between;
+}
+.inputboxclr input:focus-visible{
+  border: none;
+} 
+.Recent-video{
+  font-size: 13px;
+  color: #A2A2A2;
+  text-align: center;
+  cursor: pointer;
+}
+.video-name{
+  font-size: 15px;
+  color: #fff;
+  text-align: center;
+  cursor: pointer;
+}
+.folder-img{
+  width: 100%;
+}
+.newprojectbtn{
+  background-image: linear-gradient(to right, #686DFF , #D700DE);
+  font-size: 12px;
+  color: #fff;
+  padding: 10px;
+  border-radius: 5px;
+  width: 88%;
+  margin-left: auto  !important;
+  margin-right: auto  !important;
+  cursor: pointer;
+  align-items: center;
+}
+.plus-img{
+  width: 80%
+}
+.normalmenu{
+  background-color: transparent;
+  padding: 5px;
+  border-radius: 5px;
+  width: 88%;
+  margin-left: auto  !important;
+  margin-right: auto  !important;
+  color: #fff;
+  cursor: pointer;
+}
+.menuiconstyle{
+  display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Activebc{
+  background-color: #4B445D !important;
+}
+.input-searc-box{
+  width: 100%;
+}
+.upgradeplane{
+  background-color: #4B445D;
+  padding: 10px;
+  border-radius: 5px;
+  width: 90%;
+  margin-left: auto  !important;
+  margin-right: auto  !important;
+  margin-top: 25%;
+}
+.Freeplane{
+  background: linear-gradient(to right, #686DFF , #D700DE) !important;
+  font-weight: 500;
+  text-align: center;
+  font-size: 20px;
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent;
+  border-bottom: 1px solid #A2A2A2;
+}
+.Expire{
+  color: #A2A2A2;
+  font-size: 10px;
+  text-align: center;
+}
+.preminumup {
+  padding: 5px;
+  border-radius: 25px;
+  background-image: linear-gradient(to right, #686DFF , #D700DE);
+  font-size: 13px;
+  justify-content: space-between;
+}
+.preminumup img{
+  width: 10%;
+  background: transparent !important;
+}
+.Straightline{
+  width: 100%;
+  height: 1vh;
+  background-color: white;
+  border-radius: 10px;
+  position: relative;
+
+}
+.round{
+  top: -7px;
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  left: 20px;
+  border-radius: 50%;
+  background-image: linear-gradient(to right, #686DFF , #D700DE);
+}
+.Main_name{
+  font-size: 15px;
+  color: #fff;
+}
+.pad-right{
+  padding-right: 0;
+}
+.name-center{
+  align-items: center;
+}
